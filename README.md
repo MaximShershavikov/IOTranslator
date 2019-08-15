@@ -7,6 +7,8 @@ This program allows you to read/write data to the I/O ports of devices from the 
 ![skrin](https://user-images.githubusercontent.com/46265118/63090994-ac9bbb00-bf65-11e9-8ea9-6cea2cbf4e61.png)
 
 System requirements: 
+
 OS - Ubuntu 14, Ubuntu 16, may work in other versions of the Ubuntu operating system
+
 x86 or x64 processor architecture
 
