@@ -10,4 +10,5 @@ System requirements:
 - OS Ubuntu 14, Ubuntu 16, may work in other versions of the Ubuntu operating system
 - x86 or x64 processor architecture
 
+When the program is first launched, a module is compiled for a particular Linux kernel. To compile a module, you must have a gcc compiler in the operating system. If there is no compiler then it must be installed. In Ubuntu, to install the compiler, you must enter the command: sudo apt-get install gcc.
 
