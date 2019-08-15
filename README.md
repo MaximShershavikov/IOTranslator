@@ -12,5 +12,5 @@ System requirements:
 
 When the program is first launched, a module is compiled for a particular Linux kernel. To compile a module, you must have a gcc compiler in the operating system. If there is no compiler then it must be installed. In Ubuntu, to install the compiler, you must enter the command: sudo apt-get install gcc.
 
-To run the program, you need to go to the root directory. To do this, enter the command: cd /....../IOTranslator-v1.0/IOTranslator-v1.0_x86/ or cd /....../IOTranslator-v1.0/IOTranslator-v1.0_x64/. 
+To run the program, you need to go to the root directory. To do this, enter the command: cd /....../IOTranslator-v1.0/IOTranslator-v1.0_x86/ or cd /....../IOTranslator-v1.0/IOTranslator-v1.0_x64/. After going to the root directory of the program, you must enter the command: sudo ./IOTranslator_v1.0.out
 
